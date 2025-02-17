@@ -1,19 +1,24 @@
-# Database Work for Online Shop
+# 🛒 Web Store Testing
 
-I work with the database of an online shop, utilizing **MySQL** and **MongoDB** servers.
+I tested **[demoshopping.ru](https://demoshopping.ru)** and created different types of test documentation. You can find them below:  
+## 📌 Test Plan  
+[📝 Test Plan](https://docs.google.com/spreadsheets/d/13D9V-DW7p7dr36OrOj-utXQvokrR4ntD/edit?usp=sharing&ouid=110590343996810390074&rtpof=true&sd=true)  
+Includes testing purpose, scope, what and how will be tested, test strategy, resources, and risks.  
 
-### MySQL:
-- [**Select Requests in MySQL**](https://docs.google.com/spreadsheets/d/1nW5Z99lhzCbrEfJQGSrJ_KvUCwtn2xQU/edit?usp=sharing&ouid=110590343996810390074&rtpof=true&sd=true)
-- [**Join Requests in MySQL**](https://docs.google.com/spreadsheets/d/1V9JH9itlpfb8FoHgPfKGhLfblpp7ztuQ/edit?usp=sharing&ouid=110590343996810390074&rtpof=true&sd=true)
+## ✅ Test Cases  
+[📋 Test Cases for Shopping Cart & Order Module](https://drive.google.com/file/d/11wU51t57PpScww-_GcdjoHrAygyDrPiM/view?usp=sharing)  
+Detailed test cases covering all critical shopping cart and order functionalities.  
 
-### MongoDB:
-- [**Collection in MongoDB**](https://docs.google.com/spreadsheets/d/1a3n_XYuYXmHi0A6yCAR5ttgQ0sM17RvN/edit?usp=sharing&ouid=110590343996810390074&rtpof=true&sd=true)
+## 🚀 Test Execution  
+[📊 Test Runs in Qase](https://drive.google.com/file/d/1-nydtdrhg7w4_MmrGvNhnKG1u0NDIL2j/view?usp=sharing)  
+Test executions with attachments and results documented in **Qase**.  
 
-These are the databases and queries I have worked with for the online shop.
+## 🐞 Bug Report  
+[🚨 Bug Reports in YouTrack](https://docs.google.com/spreadsheets/d/1jkS9_vpk1-7nTlts7tFSg7gRm0XETUhM/edit?usp=sharing&ouid=110590343996810390074&rtpof=true&sd=true)  
+Discovered defects and issue tracking in **YouTrack**.  
 
 
 
-t
 
 
 
